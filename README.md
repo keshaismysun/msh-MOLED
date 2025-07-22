@@ -12,6 +12,9 @@ MID*.mat: complex-valued k-space data of msh-MOLED (input of network model).
 ----
 
 Department of Electronic Science, Xiamen University.
+
 Feel free to contact: qzyang@stu.xmu.edu.cn
+
 If you have any problem, please contact: qzyang@stu.xmu.edu.cn
+
 =3=
